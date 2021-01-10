@@ -1,0 +1,6 @@
+starter = input("Hello, what is your favourite starer?")
+main = input("what would be your favourite main course?")
+dessert = input("that's lovely and what would be your favourite dessert?")
+drink = input("and your favourite drink to go with your meal?")
+print("so your favourite meal would be.... " + starter + main + dessert)
+print("With a glass of" + drink)
